@@ -33,13 +33,13 @@ I created this project to practice data visualization, dashboard design, DAX mea
 ## Dashboard Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/dashboard_main.png)
+![Main Dashboard](dashboard_main.png)
 
 ### Analysis Page
-![Analysis Page](screenshots/analysis_page.png)
+![Analysis Page](analysis_page.png)
 
 ### Interaction / Tooltip Demo
-![Interaction Demo](screenshots/interaction_demo.png)
+![Interaction Demo](interaction_demo.png)
 
 
 
